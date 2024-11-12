@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @harshalishere
+
+im a third-year Computer Science Engineering student With a strong passion for software
+problem-solving and emerging technologies like software programming. im
+to team new things. take on challenges and grow as a developer.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,8 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--Hi, I'm [Your Namel
-rm a third-year Computer Science Engineering student W'th a strong pass•on for software
-problem-solving. and emerging technoloqtes like Artmoal Intelt.qence and Machme Leyn.nq. "m
-to team new things. take on challenges. and grow as a developer-
+<!--Hi, 
 --->
